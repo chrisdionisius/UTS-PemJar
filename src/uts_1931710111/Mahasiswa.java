@@ -4,7 +4,7 @@ import java.io.Serializable;
 
 public class Mahasiswa implements Serializable{
 
-    public Mahasiswa() {
+    public Mahasiswa() { 
     }
 
     public Mahasiswa(String nim, String nama, String prodi, String jurusan, String ipk) {
